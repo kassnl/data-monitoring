@@ -20,8 +20,10 @@ Configuration:
 ===========
 conf/settings.conf file contains:
 
-[MISC]
-query_dir = Directory that contains all test queries
+::
 
-[MAIL]
-recipient = List of mailing recipients
+  [MISC]
+  query_dir = Directory that contains all test queries
+
+  [MAIL]
+  recipient = List of mailing recipients
