@@ -1,11 +1,5 @@
 #! coding:utf-8
-'''
-
-@author: rmuslimov
-@date: 06.08.2012
-@copyright (c) 2012 Directness
-
-'''
+__author__ = 'kassandracharalampidou'
 
 import os
 import sys
